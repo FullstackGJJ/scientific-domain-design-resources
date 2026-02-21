@@ -2,6 +2,10 @@
 
 I created this as a resource to hold my thoughts, observations and experiences with focusing on capturing domain expert into a machine rather than think about programming specific ideas or patterns. I believe that premature abstraction and optimizations are the greatest evils in programming and are a waste of time. In contrast to over-engineering with premature abstraction, capturing your domain or system expert to represent accurately in code and thinking of experiments and tests that validate your code/programs are never a waste of time.
 
+# Systematic Program Design
+
+In the book "How to Design Programs", available online https://htdp.org/2025-12-27/Book/part_preface.html#(part._sec~3asystematic-design), we have a very simple and powerful approach to designing functions and programs called design recipes. This is a good approach to start coding with if you do not understand the domain well but you are in position to code and validate behavior of a program. Having something to work with in terms of code you can then break it down to experts/domains for clarity which sometimes comes later in the development process.
+
 # Data Oriented Programming
 
 The book "Data Oriented Programming" is an excellent resource for visualizing how data/mental models can relate to each other and it a great place to start when figuring out domains
