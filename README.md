@@ -8,7 +8,7 @@ In the book "How to Design Programs", available online https://htdp.org/2025-12-
 
 # Data Oriented Programming
 
-The book "Data Oriented Programming" is an excellent resource for visualizing how data/mental models can relate to each other and it a great place to start when figuring out domains
+The book "Data Oriented Programming" is an excellent resource for visualizing how data/mental models can relate to each other and it a great place to start when figuring out domains. Also useful to read through this chapter for thinking about how we talk about data https://htdp.org/2025-12-27/Book/part_one.html#(part._sec~3adesign-func)
 
 # Functional programming structure
 
